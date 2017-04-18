@@ -10,18 +10,18 @@ DBSCAN has great advantages over K-mean in that it doesn’t not require the use
 The most lucrative pick up places are as followed:  
 
    Area 1: La Guardia Airport. Marked in green color.
-   ![optional caption text](figures/area1.png)
+   ![optional caption text](/figures/area1.png)
    Area 2: Upper Manhattan, marked in blue color. Especially the area around Harlem.  From w111th street to w134th.
-   ![optional caption text](figures/area2.png)
+   ![optional caption text](/figures/area2.png)
 
    Area 3: Broadway Ave, from W95th street to W105th street. Marked in Black
-   ![optional caption text](figures/area3.png)
+   ![optional caption text](/figures/area3.png)
 
    Area 4: Marked in purple:  northern part to Columbia University, from north of Columbia University to the southern edge of City college of New York. 
-   ![optional caption text](figures/area4.png)
+   ![optional caption text](/figures/area4.png)
 
    Area 5: Northeastern corner of the Central park, especially E110th street to E112th street. (Marked in Red)
-   ![optional caption text](figures/area5.png)
+   ![optional caption text](/figures/area5.png)
 
 
 
