@@ -9,19 +9,22 @@ DBSCAN has great advantages over K-mean in that it doesn’t not require the use
 
 The most lucrative pick up places are as followed:  
 
-   Area 1: La Guardia Airport. Marked in green color.
+   Area 1: La Guardia Airport. Marked in green color.  
    ![alt tag](https://github.com/ruixuanzh/ML_unsupervised_learning/blob/master/NYC_taxi_trips_clustering/figure/area1.png)
-   Area 2: Upper Manhattan, marked in blue color. Especially the area around Harlem.  From w111th street to w134th.
+   
+   
+   Area 2: Upper Manhattan, marked in blue color. Especially the area around Harlem.  From w111th street to w134th.  
    ![alt tag](https://github.com/ruixuanzh/ML_unsupervised_learning/blob/master/NYC_taxi_trips_clustering/figure/area2.png)
 
 
-   Area 3: Broadway Ave, from W95th street to W105th street. Marked in Black
-   ![alt tag](https://github.com/ruixuanzh/ML_unsupervised_learning/blob/master/NYC_taxi_trips_clustering/figure/area3.png)
+   Area 3: Broadway Ave, from W95th street to W105th street. Marked in Black 
+   ![alt tag](https://github.com/ruixuanzh/ML_unsupervised_learning/blob/master/NYC_taxi_trips_clustering/figure/area3.png)   
 
-   Area 4: Marked in purple:  northern part to Columbia University, from north of Columbia University to the southern edge of City college of New York. 
+
+   Area 4: Marked in purple:  northern part to Columbia University, from north of Columbia University to the southern edge of City college of New York.   
    ![alt tag](https://github.com/ruixuanzh/ML_unsupervised_learning/blob/master/NYC_taxi_trips_clustering/figure/area4.png)
 
-   Area 5: Northeastern corner of the Central park, especially E110th street to E112th street. (Marked in Red)
+   Area 5: Northeastern corner of the Central park, especially E110th street to E112th street. (Marked in Red)  
    ![alt tag](https://github.com/ruixuanzh/ML_unsupervised_learning/blob/master/NYC_taxi_trips_clustering/figure/area5.png）
 
 
