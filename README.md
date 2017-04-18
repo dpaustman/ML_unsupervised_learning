@@ -10,7 +10,7 @@ DBSCAN has great advantages over K-mean in that it doesn’t not require the use
 The most lucrative pick up places are as followed:  
 
    Area 1: La Guardia Airport. Marked in green color.
-   ![alt tag](https://github.com/ruixuanzh/ML_unsupervised_learning/blob/master/NYC_taxi_trips_clustering/figure/area1.png=100x20)
+   ![alt tag](https://github.com/ruixuanzh/ML_unsupervised_learning/blob/master/NYC_taxi_trips_clustering/figure/area1.png =100x20)
    Area 2: Upper Manhattan, marked in blue color. Especially the area around Harlem.  From w111th street to w134th.
    ![alt tag](https://github.com/ruixuanzh/ML_unsupervised_learning/NYC_taxi_trips_clustering/figure/area2.png)
 
