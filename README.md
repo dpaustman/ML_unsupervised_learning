@@ -12,16 +12,17 @@ The most lucrative pick up places are as followed:
    Area 1: La Guardia Airport. Marked in green color.
    ![alt tag](https://github.com/ruixuanzh/ML_unsupervised_learning/NYC_taxi_trips_clustering/figure/area1.png)
    Area 2: Upper Manhattan, marked in blue color. Especially the area around Harlem.  From w111th street to w134th.
-   ![alt text](/figures/area2.png)
+   ![alt tag](https://github.com/ruixuanzh/ML_unsupervised_learning/NYC_taxi_trips_clustering/figure/area2.png)
+
 
    Area 3: Broadway Ave, from W95th street to W105th street. Marked in Black
-   ![alt text](/figures/area3.png)
+   ![alt tag](https://github.com/ruixuanzh/ML_unsupervised_learning/NYC_taxi_trips_clustering/figure/area3.png)
 
    Area 4: Marked in purple:  northern part to Columbia University, from north of Columbia University to the southern edge of City college of New York. 
-   ![alt text](/figures/area4.png)
+   ![alt tag](https://github.com/ruixuanzh/ML_unsupervised_learning/NYC_taxi_trips_clustering/figure/area4.png)
 
    Area 5: Northeastern corner of the Central park, especially E110th street to E112th street. (Marked in Red)
-   ![alt text](/figures/area5.png)
+   ![alt tag](https://github.com/ruixuanzh/ML_unsupervised_learning/NYC_taxi_trips_clustering/figure/area5.png)
 
 
 
